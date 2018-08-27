@@ -3,23 +3,24 @@
 This page provides an overview of all projects whose FAIMS Mobile development was funded by the RAAP grant in 2016-2018. More about the individual projects and the FAIMS Mobile customisations can be found under the provided links.
 
 # FAIMS modules & custom exporters 
-More information about **the FAIMS Project** with the recent updates see [FAIMS Project Webpage](https://www.fedarch.org/)
+For more information about **the FAIMS Project** with the recent updates see [FAIMS Project Webpage](https://www.fedarch.org/)
+<img src="https://github.com/FAIMS/faimsWebsite/blob/master/images/FAIMS-CYMK-FULL-VECTOR.png" height="100" width="100">
 
   1. [Australia Asian Garrisons]()
-    1. Faims scanner
-    1. Custom PDF exporter
+  * Faims scanner
+  * Custom PDF exporter
   1. [Avian Ecology]()
-    1. Bird Banding
-    1. Bird Nesting
-    1. Custom Reporting Exporter
+  * Bird Banding
+  * Bird Nesting
+  * Custom Reporting Exporter
   1. [Biodiversity Surveys]()
-    1. Biodiversity module
-    1. Custom labelling exporter
+  * Biodiversity module
+  * Custom labelling exporter
   1. [Blue Mountains World Heritage Institute]()
-    1. Bleichert Ropeway Excavation Context 2016
-    1. Bleichert Ropeway Excavation Spit 2016
-    1. Biodiversity Monitoring 2017
-    1. Ruined Castle Survey 2018
+  * Bleichert Ropeway Excavation Context 2016
+  * Bleichert Ropeway Excavation Spit 2016
+  * Biodiversity Monitoring 2017
+  * Ruined Castle Survey 2018
   1. [GML]()
   1. [Khirbet-el-Rai, MQ University]()
   1. [Lake Mungo]()
@@ -29,10 +30,11 @@ More information about **the FAIMS Project** with the recent updates see [FAIMS 
   1. [Scoop-a-poop]()
   1. [Streamwatch]()
   1. [Tundzha regional archaeological project, MQ University]()
-    1. Burial mounds
-    1. Gridded Survey
-    1. Map Digitisation
+  * Burial mounds
+  * Gridded Survey
+  * Map Digitisation
   1. [YourShore]()
 
 # Alveo
-More information about **the Alveo Project** with the recent updates see [Alveo Webpage](http://alveo.edu.au/)
+For more information about **the Alveo Project** with the recent updates see [Alveo Webpage](http://alveo.edu.au/)
+<img src="https://i0.wp.com/alveo.edu.au/wp-content/uploads/2018/06/alveo-logo-bg.png">
