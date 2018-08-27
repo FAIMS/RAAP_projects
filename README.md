@@ -4,6 +4,7 @@ This page provides an overview of all projects whose FAIMS Mobile development wa
 
 # FAIMS modules & custom exporters 
 <img src="https://github.com/FAIMS/faimsWebsite/blob/master/images/FAIMS-CYMK-FULL-VECTOR.png" height="100" width="100">
+
 For more information about **the FAIMS Project** with the recent updates see [FAIMS Project Webpage](https://www.fedarch.org/)
 
   ## [Australia Asian Garrisons]()
@@ -37,4 +38,5 @@ For more information about **the FAIMS Project** with the recent updates see [FA
 
 # Alveo
 <img src="https://i0.wp.com/alveo.edu.au/wp-content/uploads/2018/06/alveo-logo-bg.png">
+
 For more information about **the Alveo Project** with the recent updates see [Alveo Webpage](http://alveo.edu.au/)
